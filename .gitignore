@@ -1,0 +1,8 @@
+/.tools/
+/build*/
+/release/
+/data/
+/test-output/
+*.sqlite*
+aqtinstall.log
+/CMakeUserPresets.json
